@@ -23,7 +23,7 @@ width="100%"
 
 ---
 
-## ⚡ Tech Stack (FAANG/Neon Style)
+## ⚡ Tech Stack 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -68,7 +68,7 @@ width="100%"
 
 ---
 
-## 💼 Featured Projects (Hover Cards)
+## 💼 Featured Projects
 
 ### HOMELY — Real Estate SaaS Platform  
 🔗 [GitHub Repo](https://github.com/ben-bader/homely)  
