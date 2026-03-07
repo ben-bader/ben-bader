@@ -124,7 +124,7 @@ English — Professional
 
 # 📊 GitHub Stats
 
-[![Bader's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-bader)](https://github.com/anuraghazra/github-readme-stats)
+[![Bader's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-bader)]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-bader&layout=compact&theme=tokyonight)
 
