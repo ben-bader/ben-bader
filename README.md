@@ -1,145 +1,108 @@
-# 👋 Hi, I'm Bennani Bader
+![Header](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=gradient\&customColorList=24,20\&text=Bennani%20Bader\&fontSize=48\&fontColor=ffffff\&animation=fadeIn)
 
 ### 🚀 Full-Stack Developer | Software Engineering Student
 
-I build **modern, scalable, and secure web applications** using cutting-edge technologies.
+Welcome to my portfolio. Passionate **Full-Stack developer**. I am currently a **Computer Science (DUT Génie Informatique) student**. I enjoy designing and building applications that combine **clean architecture, performance, and security** using technologies like **React, Next.js, Laravel, and Spring Boot**.
 
-💡 Passionate about building **high-performance digital products** and continuously learning new technologies.
-
----
-
-# 👨‍💻 About Me
-
-I'm a **Computer Science student (DUT Génie Informatique)** and a passionate **Full-Stack developer** focused on building scalable web applications and digital platforms.
-
-My development stack includes **React, Next.js, Laravel, and Spring Boot**, allowing me to design both powerful backend systems and intuitive user interfaces.
-
-I enjoy transforming ideas into real applications, solving complex technical challenges, and creating software that is **secure, performant, and user-friendly**.
+My goal is to grow as a developer while contributing to meaningful projects and innovative teams.
 
 ---
 
-# ⚡ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![PHP](https://img.shields.io/badge/PHP-purple)
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
+## ⚡ Tech Stack
 
-### Frameworks
-![React](https://img.shields.io/badge/React-61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-black)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green)
-![Laravel](https://img.shields.io/badge/Laravel-red)
+### 💻 Languages
 
-### Tools
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue)
-![Prisma](https://img.shields.io/badge/Prisma-black)
-![Vercel](https://img.shields.io/badge/Vercel-black)
-![JWT](https://img.shields.io/badge/JWT-grey)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql\&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![Oracle](https://img.shields.io/badge/Oracle-red)
+### ⚙️ Frameworks
 
----
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
 
-# 🚀 Featured Projects
+### 🗄 Databases
 
-## 🏠 HOMELY – Real Estate SaaS Platform
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle\&logoColor=white)
 
-**Stack:** Spring Boot • PostgreSQL • JWT
+### 🛠 Tools
 
-- Secure REST API with authentication
-- Role-based admin dashboard
-- Scalable relational database design
-
-📌 *A modern SaaS platform for managing real estate operations.*
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens\&logoColor=white)
 
 ---
 
-## 📦 ONEE-SYS – Inventory Management System
+## 💼 Experience
 
-**Stack:** Laravel • SQLite • MVC
+### Internship — ONEE (Branche Eau) | Meknès
 
-- Full CRUD system
-- Equipment and employee management
-- Backend validation and structured architecture
-
----
-
-## 🌐 Innovex Tech Event Explorer
-
-**Stack:** Next.js • Prisma • NextAuth
-
-- Full-stack event discovery platform
-- Secure authentication system
-- Production deployment on Vercel
-
----
-
-## 🎨 Zentry Landing Page Clone
-
-**Stack:** React • GSAP
-
-- Modern landing page recreation
-- Advanced web animations
-- Mobile-first responsive design
-
----
-
-# 💼 Experience
-
-### Internship — ONEE (Branche Eau) | Meknès  
 **June 2025**
 
-- Developed a functional web application using **Laravel, Blade, and SQLite**
-- Worked in a collaborative development team
-- Applied **MVC architecture and backend logic**
-- Strengthened skills in **teamwork, communication, and deadlines**
+* Developed a functional web application using **Laravel, Blade, and SQLite**
+* Worked in a collaborative development team
+* Applied MVC architecture and backend logic
+* Strengthened skills in teamwork, communication, and project delivery
 
 ---
 
-# 🎓 Education
+## 🚀 Projects
 
-**DUT Génie Informatique**  
-École Supérieure de Technologie — Meknès  
-2024 — 2026
+- **HOMELY – Real Estate SaaS Platform**  
+  🔗 https://github.com/ben-bader/homely
 
----
+- **ONEE-SYS – Inventory Management System**  
+  🔗 https://github.com/ben-bader/onee-sys
 
-# 🌍 Languages
+- **Innovex Tech Event Explorer**  
+  🔗 https://github.com/ben-bader/innovex-event-explorer
 
-Arabic — Native  
-French — Professional  
-English — Professional
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-bader&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-bader&layout=compact&theme=tokyonight)
+- **Zentry Landing Page Clone**  
+  🔗 https://github.com/ben-bader/zentry-clone
 
 ---
 
-# 📬 Let's Connect
+## 🎓 Education
 
-📧 Email  
-**bennanibader2006@gmail.com**
+**DUT Génie Informatique**
+École Supérieure de Technologie — Meknès
+2024 – 2026
 
-💼 LinkedIn  
+---
+
+## 🌍 Languages
+
+* Arabic — Native
+* French — Professional
+* English — Professional
+
+---
+
+## 📬 Let's Connect
+
+📧 Email
+[bennanibader2006@gmail.com](mailto:bennanibader2006@gmail.com)
+
+💼 LinkedIn
 https://linkedin.com/in/bader-bennani-41b301289
 
-💻 GitHub  
+💻 GitHub
 https://github.com/ben-bader
 
 ---
 
-⭐ *Always open to exciting projects, collaborations, and opportunities.*
+💡 *Open to internships, collaborations, and exciting development opportunities.*
+
+⭐ If you like my work, feel free to explore my repositories.
