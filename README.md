@@ -16,7 +16,7 @@ width="100%"
 
 
 🎓 DUT Génie Informatique — Computer Science Student  
-💡 Passionate about building AI-powered full-stack applications  
+💡 Passionate about building modern full-stack applications  
 🌐 Interested in scalable, high-performance, secure systems  
 ⚡ Always learning and contributing to innovative projects  
 
