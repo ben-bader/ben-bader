@@ -23,6 +23,22 @@ width="100%"
 
 ---
 
+### 📬 Connect With Me
+
+<a href="mailto:bennanibader2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+
+<a href="https://linkedin.com/in/bader-bennani-41b301289">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/ben-bader">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+
+---
+
 ## ⚡ Tech Stack 
 
 ### Languages
@@ -70,29 +86,13 @@ width="100%"
 
 ## 💼 Featured Projects
 
-### HOMELY — Real Estate SaaS Platform  
-🔗 [GitHub Repo](https://github.com/ben-bader/homely)  
-
-### ONEE-SYS — Inventory Management System  
-🔗 [GitHub Repo](https://github.com/ben-bader/onee-sys)  
-
-### Innovex Tech Event Explorer  
-🔗 [GitHub Repo](https://github.com/ben-bader/innovex-event-explorer)  
-
-### Zentry Landing Page Clone  
-🔗 [GitHub Repo](https://github.com/ben-bader/zentry-clone)
+•	[HOMELY — Real Estate SaaS Platform](https://github.com/ben-bader/homely)  
+• [ONEE-SYS — Inventory Management System](https://github.com/ben-bader/onee-sys)  
+•	[Innovex — Tech Event Explorer](https://github.com/ben-bader/innovex-event-explorer)  
+•	[Zentry — Landing Page Clone](https://github.com/ben-bader/zentry-clone)
 
 ## 🌍 Languages
-
 
 🇲🇦 Arabic — Native  
 🇫🇷 French — Professional  
 us English — Professional
-
----
-
-## 📬 Connect With Me
-
-📧 Email: [bennanibader2006@gmail.com](mailto:bennanibader2006@gmail.com)  
-💼 LinkedIn: [Bader Bennani](https://linkedin.com/in/bader-bennani-41b301289)  
-🐙 GitHub: [ben-bader](https://github.com/ben-bader)
