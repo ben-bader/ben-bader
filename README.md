@@ -95,4 +95,4 @@ width="100%"
 
 🇲🇦 Arabic — Native  
 🇫🇷 French — Professional  
-us English — Professional
+🇬🇧 English — Professional
