@@ -2,8 +2,10 @@
 <div align="center">
 
 <h1>
+  <strong>
   <span style="color:#60A5FA;">BENNANI</span>
-  <span style="color:#E2E8F0;"> BADER</span>
+  <span style="color:#E2E8F0;"> Bader</span>
+  </strong>
 </h1>
 
 <p>
